@@ -1,0 +1,10 @@
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\obj\Debug\Assignment 10.csprojAssemblyReference.cache
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\obj\Debug\Assignment_10.Form1.resources
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\obj\Debug\Assignment_10.Properties.Resources.resources
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\obj\Debug\Assignment 10.csproj.GenerateResource.cache
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\obj\Debug\Assignment 10.csproj.CoreCompileInputs.cache
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\bin\Debug\Assignment 10.exe.config
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\bin\Debug\Assignment 10.exe
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\bin\Debug\Assignment 10.pdb
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\obj\Debug\Assignment 10.exe
+W:\CNIT 155\Assignments\Assignment 10\Assignment 10\obj\Debug\Assignment 10.pdb
